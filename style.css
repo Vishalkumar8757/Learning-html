@@ -1,0 +1,26 @@
+body{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+.head{
+    background-color: yellowgreen;
+}
+.vishal{
+    background-color: pink;
+}
+.good{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-color: black;
+    text-decoration-style: wavy;
+    text-transform: capitalize;
+    text-shadow: -23px -33px 5px yellow;
+}
+.para{
+    font-family: cursive;
+}
