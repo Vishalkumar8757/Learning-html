@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ 
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px; ;
+}
+.navbar ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.vishal{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    align-items: center;    
+}
+.nav ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+.rup ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+     
+}
+header{
+    color:white;
+    background-image: url(wp3049331.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
