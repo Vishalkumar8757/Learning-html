@@ -1,0 +1,44 @@
+#btn{
+    background-color: aqua;
+    padding: 12px 20px;
+    border: none;
+}
+#btn:hover{
+    background-color: blueviolet;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: all .5s;
+}
+.h1:hover{
+    color: blueviolet;
+    text-transform: capitalize;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1:nth-child(3){
+    background-color: aqua;
+}
+input::placeholder{
+    color: brown;
+}
+p::selection{
+    background-color:red;
+    color: azure;
+}
+.name::before{
+    content: "Mr. ";
+    color: blueviolet;
+}
+.name::after{
+    content: " kumar";
+    color: brown;
+}
+p::first-letter{
+    font-size: 30px;
+    font-weight: bold;
+}
+p::first-line{
+    color: red;
+}
+.span span{
+    color: blue;
+}
